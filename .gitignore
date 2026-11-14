@@ -1,0 +1,15 @@
+node_modules/
+.next/
+out/
+.env*
+!.env.example
+*.tsbuildinfo
+*.log
+.venv/
+__pycache__/
+frontend/public/sw.js
+frontend/public/workbox-*.js
+frontend/public/swe-worker-*.js
+*.pem
+*firebase-adminsdk*.json
+*service-account*.json
